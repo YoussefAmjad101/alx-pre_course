@@ -1,1 +1,1 @@
-This is 0x01-git directory
+The README file was updated.
